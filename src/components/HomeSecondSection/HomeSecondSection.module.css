@@ -1,0 +1,8 @@
+.homesecondsection {
+    /* width: 1970px; */
+    height: 1048px;
+    background-image: url('imagemsecao02.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+}

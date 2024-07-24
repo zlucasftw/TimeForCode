@@ -1,18 +1,19 @@
-# Getting Started with Create React App
+# Time for Code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto em desenvolvimento.\
+Desenvolvido com *React* -> [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Scripts disponíveis
 
-In the project directory, you can run:
+Com os diretórios do projeto execute no terminal:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Carrega o app em modo desenvolvedor.\
+Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador (a porta pode mudar caso tenha algo diferente)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A página recarrega quando você faz alterações.\
+É possível ver indicações de erro no terminal/console.
 
 ### `npm test`
 
